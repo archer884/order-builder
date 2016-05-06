@@ -1,0 +1,8 @@
+[package]
+name = "order-builder"
+version = "0.1.0"
+authors = ["J/A <archer884@gmail.com>"]
+
+[dependencies]
+grabinput = "*"
+rustc-serialize = "*"
